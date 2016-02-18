@@ -54,7 +54,7 @@ Note: No additional services are required in order to start the application. Mon
 
 Creating a new project in Eclipse
 ----------------------------------
-
+* Install EGit Team Provider plugin for Eclipse IDE [http://wiki.eclipse.org/EGit/User_Guide](EGit/User Guide)
 * Import archetype URI by `Import ... > Projects from Git > Clone URI`
 * Install the archetype in local repository with `mvn install`
 * Go to `Preferences > Maven > Archetypes` and `Add Local Catalog`

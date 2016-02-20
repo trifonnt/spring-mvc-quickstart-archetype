@@ -6,7 +6,7 @@ Summary
 The project is a Maven archetype for Spring MVC 4 web application.
 
 Generated project characteristics
--------------------------
+---------------------------------
 * No-xml Spring MVC 4 web application
 * Thymeleaf, Bootstrap
 * JPA (Hibernate/HSQLDB/Spring Data JPA)
@@ -20,7 +20,7 @@ Installation
 To install the archetype in your local repository execute following commands:
 
 ```bash
-    git clone https://github.com/kolorobot/spring-mvc-quickstart-archetype.git
+    git clone https://github.com/trifonnt/spring-mvc-quickstart-archetype.git
     cd spring-mvc-quickstart-archetype
     mvn clean install
 ```
